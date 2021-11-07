@@ -1,1 +1,1 @@
-web: ROCKET_PORT=$PORT ROCKET_KEEP_ALIVE=0 ./workspace/target
+web: ROCKET_PORT=$PORT ROCKET_KEEP_ALIVE=0 ./layers/paketo-community_cargo/Cargo/bin
